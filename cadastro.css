@@ -1,0 +1,63 @@
+body {box-sizing: border-box;
+padding: 0;
+margin: 0;
+background-color: black;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 600;}
+
+.cabeca {display: flex;justify-content: space-between;}
+
+.logo {width: 120px;
+height: 120px;
+margin-left: 5%;
+cursor: pointer;}
+#logo {position: absolute;
+color: white;
+top: 108px;
+left: 10px;
+cursor: pointer;}
+
+.conteudo {display: flex;
+    justify-content: space-between;
+width: 30%;
+height: 50%;
+margin-top: 2%;
+margin-right: 45%;}
+
+.c1 {color: #FD8210;
+    font-size: 20px;
+text-decoration: none;}
+.c2 {text-decoration: none;
+color: white;
+font-size: 20px;
+z-index: 100;}
+.c2:hover {color: #FD8210;
+transition: 0.5s;}
+
+.cont {
+height: 2%;
+position: absolute;
+left: 85%;
+top: 2.7%;}
+
+.search {width: 25px;
+height: 50px;
+margin-right: 30px;}
+.carrinho {width: 25px;
+    height: 52px;
+margin-right: 28px;}
+.user {width: 25px;
+     height: 50px;}
+
+.caixa {width: 36%;
+height: 82.5vh;
+
+margin-left: 30%;
+margin-top: 2%;
+color: white;}
+
+.email {width: 70%;}
+.submit {width: 10%;
+cursor: pointer;}
+
+.form {font-size: 60px;}

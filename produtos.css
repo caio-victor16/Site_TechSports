@@ -61,7 +61,7 @@ text-decoration: none;}
         .div1 {
             grid-row: span 2 / span 2;
             background-color: white;
-            border: #FD8210 2px solid;
+          
             cursor: pointer;
         }
         .div1:hover {background-color: #FD8210;
@@ -71,7 +71,7 @@ text-decoration: none;}
         .div2 {
             grid-row: span 3 / span 3;
             background-color: white;
-            border: #FD8210 2px solid;
+           
             cursor: pointer;
         }
         .div2:hover {background-color: #FD8210;
@@ -83,7 +83,7 @@ text-decoration: none;}
             grid-column-start: 1;
             grid-row-start: 3;
             background-color: white;
-            border: #FD8210 2px solid;
+   
             cursor: pointer;
             
         }
@@ -96,7 +96,7 @@ text-decoration: none;}
             grid-column-start: 2;
             grid-row-start: 4;
             background-color: white;
-            border: #FD8210 2px solid;
+          
             cursor: pointer;
         }
         .div5:hover {background-color: #FD8210;
@@ -108,7 +108,7 @@ text-decoration: none;}
             grid-column-start: 3;
             grid-row-start: 1;
             background-color: white;
-            border: #FD8210 2px solid;
+           
             cursor: pointer;
         }
         .div6:hover {background-color: #FD8210;
@@ -120,7 +120,7 @@ text-decoration: none;}
             grid-column-start: 4;
             grid-row-start: 1;
             background-color: white;
-            border: #FD8210 2px solid;
+           
             cursor: pointer;
         }
         .div7:hover {background-color: #FD8210;
@@ -132,7 +132,7 @@ text-decoration: none;}
             grid-column-start: 4;
             grid-row-start: 3;
             background-color: white;
-            border: #FD8210 2px solid;
+         
             cursor: pointer;
         }
         .div8:hover {background-color: #FD8210;
@@ -144,7 +144,7 @@ text-decoration: none;}
             grid-column-start: 4;
             grid-row-start: 5;
             background-color: white;
-            border: #FD8210 2px solid;
+           
             cursor: pointer;
         }
         .div9:hover {background-color: #FD8210;
@@ -156,7 +156,7 @@ text-decoration: none;}
             grid-column-start: 5;
             grid-row-start: 3;
             background-color: white;
-            border: #FD8210 2px solid;
+          
             cursor: pointer;
         }
         .div12:hover {background-color: #FD8210;
@@ -167,7 +167,7 @@ text-decoration: none;}
             grid-column-start: 5;
             grid-row-start: 1;
             background-color: white;
-            border: #FD8210 2px solid;
+            
             cursor: pointer;
         }
         .div14:hover {background-color: #FD8210;
@@ -178,7 +178,7 @@ text-decoration: none;}
             grid-column-start: 5;
             grid-row-start: 2;
             background-color: white;
-            border: #FD8210 2px solid;
+           
             cursor: pointer;
         }
         .div15:hover {background-color: #FD8210;
@@ -189,7 +189,7 @@ text-decoration: none;}
 border: #FD8210 solid 3px;
 height: 30vh;
 width: 99.7%;
-margin-top: 20%;}
+margin-top: 50%;}
 
 .bbloc {margin-left: 2.2%;
 font-size: 22px;}
@@ -227,14 +227,34 @@ position: absolute;
 width: 30%;
 justify-content: space-around;
 left: 55%;
-top: 180%;
+top: 245%;
 }
 
 #icon {width: 10%;
 height: 10%;
 cursor: pointer;}
-
-.imagege {width: 2%;
-height: 1vh;}
+.teteni {width: 100%;
+height: 70%;
+margin-left: 3%;}
             
-                
+#bloco {background-color: black;
+width: 100%;
+height: 29.5%;
+color: white;
+text-align: center;}
+
+.div8 {background-color: black;
+border: black}  
+
+.buy {background-color: white;
+width: 30%;
+margin-top: 6%;
+margin-left: 34%;
+color: black;
+height: 3vh;
+display: flex;
+align-items: center;
+justify-content: center;}
+
+.lo {font-size: 35px;}
+.lo14 {font-size: 10px;}
